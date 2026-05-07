@@ -755,7 +755,7 @@ When an operation supports asynchronous execution, the `async` object SHOULD be 
   "create": {
     "request": { "method": "POST", "url-template": "/api/v1/namespaces/{ns}/interfaces" },
     "response": {
-      "success-codes": "200-299",
+      "success-codes": "200,201,203-205",
       "parser": "auto",
       "capture": [{ "name": "task-id", "data-path": "$.data.taskId", "required": true }]
     },

@@ -10,7 +10,7 @@
 > **Intended Audience:** RAIM system implementers, AI intent execution engine developers, REST API automation engineers
 > **Upstream Specification:** RAIM Core Specification v1.0
 >
-> **Design Provenance:** Derived from the layered intent modeling approach of NAIM-OP (Skill E / Skill F / Operation IR / transaction compensation), adapted for the REST API runtime execution scenario using RAIM Documents as the semantic skeleton.
+> **Design Provenance:** RAIM-OP applies layered intent modeling principles to the REST API runtime execution scenario, using RAIM Documents as the semantic skeleton.
 
 ---
 
