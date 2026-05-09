@@ -1,0 +1,18 @@
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Claude Code local state
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.log
