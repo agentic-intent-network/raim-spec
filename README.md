@@ -1,6 +1,6 @@
 # RAIM Specification
 
-**RAIM** (REST API Interface Modeling) is a semantic specification framework
+**RAIM** (REST AI Interface Modeling) is a semantic specification framework
 for AI Agents calling REST APIs reliably. It defines a structured semantic
 intermediate representation (RAIM Document) and a deterministic
 validation-execution pipeline that bridges AI-generated operation intent
