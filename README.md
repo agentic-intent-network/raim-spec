@@ -81,7 +81,7 @@ If you reference RAIM in academic work, technical reports, or other
 specifications, please cite:
 
 ```
-Feng, C. RAIM Specification v1.0: REST API Interface Modeling for
+Feng, C. RAIM Specification v1.0: REST AI Interface Modeling for
 AI Agents. 2026. https://github.com/agentic-intent-network/raim-spec
 ```
 
